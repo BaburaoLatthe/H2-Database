@@ -16,9 +16,7 @@ VALUES
 
 INSERT INTO STUDENT (name ,age , address, email) 
 VALUES 
-('Adarsh', 28, 'Shimoga', 'adarshmotogp@infosys.com'), 
-('Amit', 27, 'Bidar', 'amit10@infosys.com'),
-('Ajay', 27, 'Indore', 'ajaypachoriya@infosys.com'),
-('Beena', 32, 'Thiruvananthapuram', 'beena@infosys.com'),
-('Kanchana', 25, 'Nellu', 'kanchana.addanki@infosys.com');
+('ABC', 28, 'Shimoga', 'xyz@gamil.com'), 
+('XYZ', 32, 'Thiruvananthapuram', 'abc@gmail.com'),
+
 
